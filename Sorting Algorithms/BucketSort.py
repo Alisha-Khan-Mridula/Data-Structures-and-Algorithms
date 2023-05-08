@@ -20,6 +20,8 @@ def bucketSort(x):
                 index = int(j/10)
                 array[index].append(j)
                 print(array)
+                
+
       
 
     for i in range(slotNumber):
