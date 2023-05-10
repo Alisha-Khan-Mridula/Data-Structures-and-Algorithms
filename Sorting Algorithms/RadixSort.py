@@ -1,6 +1,6 @@
 ### Time Complexity: O(d*(n+k))
 
-numbers = [237,146,259,348,152,163,235,48,36,62]
+numbers = [27,146,259,348,152,163,235,48,36,62]
 comply = []
 
 for i in range(10):
